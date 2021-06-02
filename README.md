@@ -1,4 +1,10 @@
 # Covid19 Data Application
-
+https://user-images.githubusercontent.com/72139355/120544950-a8c37c00-c40b-11eb-8a3d-7611001ee406.mp4
 ## Description
-![ezgif-7-3316c1742bcf](https://user-images.githubusercontent.com/72139355/120544230-d0661480-c40a-11eb-913e-0b54c26c39cc.gif)
+
+## Technology used:
+
+
+
+
+
